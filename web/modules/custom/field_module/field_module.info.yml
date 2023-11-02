@@ -1,0 +1,8 @@
+name: Field Module
+type: module
+description: Demonstrates the Field API via some field plugin implementations.
+package: Custom modules
+core_version_requirement: ^9.4 || ^10
+dependencies:
+  - drupal:node
+ 
